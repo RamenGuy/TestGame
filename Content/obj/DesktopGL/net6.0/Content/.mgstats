@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nickh/Source/Repos/RamenGuy/TestGame/Content/ball.png","C:/Users/nickh/Source/Repos/RamenGuy/TestGame/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.1081608
+"C:/Users/nickh/Source/Repos/RamenGuy/TestGame/Content/ballglow.png","C:/Users/nickh/Source/Repos/RamenGuy/TestGame/Content/bin/DesktopGL/Content/ballglow.xnb","TextureProcessor","Texture2DContent",1895,16469,0.0022549
